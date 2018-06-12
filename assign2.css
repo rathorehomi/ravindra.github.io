@@ -1,0 +1,21 @@
+body {
+    background-image: url("robot.jpg");
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: darkslategray;
+
+
+}
+
+nav{
+    background-color: cornflowerblue;
+}
+
+.form1{
+    background-color: blueviolet;
+    padding-bottom: 20px;
+      }
